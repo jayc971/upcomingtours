@@ -1,0 +1,138 @@
+[23-Nov-2018 23:18:33 America/New_York] PHP Warning:  Illegal string offset 'tmp_name' in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:18:33 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:20:51 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:28:19 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:28:49 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:30:34 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:32:12 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:32:12 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:33:21 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:33:21 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:33:21 America/New_York] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:35:46 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[23-Nov-2018 23:35:46 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 00:05:05 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 00:05:05 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 00:05:05 America/New_York] PHP Notice:  Undefined variable: location in /home/overatou/public_html/3cs/php/addnew.php on line 56
+[24-Nov-2018 00:05:05 America/New_York] PHP Notice:  Undefined variable: caption in /home/overatou/public_html/3cs/php/addnew.php on line 56
+[24-Nov-2018 00:07:09 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 00:07:09 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 00:07:09 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 34
+[24-Nov-2018 00:07:09 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 35
+[24-Nov-2018 00:07:09 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/overatou/public_html/3cs/php/addnew.php on line 35
+[24-Nov-2018 00:07:09 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 36
+[24-Nov-2018 00:07:09 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 38
+[24-Nov-2018 00:07:09 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 38
+[24-Nov-2018 00:07:09 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 40
+[24-Nov-2018 00:07:09 America/New_York] PHP Notice:  Undefined index: caption in /home/overatou/public_html/3cs/php/addnew.php on line 42
+[24-Nov-2018 00:10:50 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 34
+[24-Nov-2018 00:10:50 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 35
+[24-Nov-2018 00:10:50 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/overatou/public_html/3cs/php/addnew.php on line 35
+[24-Nov-2018 00:10:50 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 36
+[24-Nov-2018 00:10:50 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 38
+[24-Nov-2018 00:10:50 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 38
+[24-Nov-2018 00:10:50 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 40
+[24-Nov-2018 00:10:50 America/New_York] PHP Notice:  Undefined index: caption in /home/overatou/public_html/3cs/php/addnew.php on line 42
+[24-Nov-2018 00:18:23 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 47
+[24-Nov-2018 00:18:23 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 67
+[24-Nov-2018 01:34:22 America/New_York] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/overatou/public_html/3cs/php/addnew.php on line 34
+[24-Nov-2018 01:34:24 America/New_York] PHP Parse error:  syntax error, unexpected 'move_uploaded_file' (T_STRING) in /home/overatou/public_html/3cs/php/addnew.php on line 34
+[24-Nov-2018 01:35:18 America/New_York] PHP Notice:  Undefined variable: _FILE in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 01:35:18 America/New_York] PHP Notice:  Undefined variable: _FILE in /home/overatou/public_html/3cs/php/addnew.php on line 29
+[24-Nov-2018 01:40:32 America/New_York] PHP Notice:  Undefined variable: _FILE in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 01:40:32 America/New_York] PHP Notice:  Undefined variable: _FILE in /home/overatou/public_html/3cs/php/addnew.php on line 29
+[24-Nov-2018 01:40:32 America/New_York] PHP Notice:  Undefined variable: imagecap in /home/overatou/public_html/3cs/php/addnew.php on line 43
+[24-Nov-2018 02:21:44 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:22:20 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:22:39 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:22:41 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:23:38 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:24:25 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:24:25 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:25:43 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:25:43 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:36:52 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:38:07 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:39:02 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:39:32 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:40:09 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:40:26 America/New_York] PHP Fatal error:  Function name must be a string in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:41:38 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:41:38 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:43:09 America/New_York] PHP Notice:  Undefined index: bimage in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[24-Nov-2018 02:43:09 America/New_York] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, object given in /home/overatou/public_html/3cs/php/addnew.php on line 27
+[04-Dec-2018 01:13:24 America/New_York] PHP Notice:  Undefined variable: bmedium in /home/overatou/public_html/upcoming/php/addnew.php on line 25
+[04-Dec-2018 01:13:24 America/New_York] PHP Notice:  Undefined variable: location in /home/overatou/public_html/upcoming/php/addnew.php on line 25
+[04-Dec-2018 01:21:55 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/overatou/public_html/upcoming/php/updateform.php on line 21
+[04-Dec-2018 01:21:55 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/overatou/public_html/upcoming/php/updateform.php on line 22
+[04-Dec-2018 01:21:55 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/overatou/public_html/upcoming/php/updateform.php on line 23
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/upcoming/php/updateform.php on line 116
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/upcoming/php/updateform.php on line 124
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/upcoming/php/updateform.php on line 132
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/upcoming/php/updateform.php on line 142
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/upcoming/php/updateform.php on line 154
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/upcoming/php/updateform.php on line 166
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/upcoming/php/updateform.php on line 179
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined index: category in /home/overatou/public_html/upcoming/php/updateform.php on line 195
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined index: category in /home/overatou/public_html/upcoming/php/updateform.php on line 205
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined index: category in /home/overatou/public_html/upcoming/php/updateform.php on line 215
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined index: category in /home/overatou/public_html/upcoming/php/updateform.php on line 225
+[04-Dec-2018 02:14:41 America/New_York] PHP Notice:  Undefined index: category in /home/overatou/public_html/upcoming/php/updateform.php on line 235
+[04-Dec-2018 17:38:36 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/overatou/public_html/upcoming/php/addnew.php on line 191
+[04-Dec-2018 17:39:04 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/overatou/public_html/upcoming/php/addnew.php on line 189
+[04-Dec-2018 17:39:19 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/overatou/public_html/upcoming/php/addnew.php on line 189
+[04-Dec-2018 17:40:19 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/overatou/public_html/upcoming/php/addnew.php on line 189
+[04-Dec-2018 17:43:40 America/New_York] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/addnew.php on line 122
+[04-Dec-2018 17:43:45 America/New_York] PHP Parse error:  syntax error, unexpected 'date' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/addnew.php on line 122
+[04-Dec-2018 17:57:28 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/overatou/public_html/upcoming/php/addnew.php on line 127
+[04-Dec-2018 17:57:35 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/overatou/public_html/upcoming/php/addnew.php on line 127
+[04-Dec-2018 18:00:04 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/overatou/public_html/upcoming/php/addnew.php on line 140
+[04-Dec-2018 18:00:56 America/New_York] PHP Notice:  Undefined variable: date in /home/overatou/public_html/upcoming/php/addnew.php on line 127
+[04-Dec-2018 18:00:56 America/New_York] PHP Notice:  Undefined variable: date in /home/overatou/public_html/upcoming/php/addnew.php on line 130
+[04-Dec-2018 18:00:56 America/New_York] PHP Notice:  Undefined variable: date in /home/overatou/public_html/upcoming/php/addnew.php on line 133
+[05-Dec-2018 22:44:46 America/New_York] PHP Parse error:  syntax error, unexpected ''$r3['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[05-Dec-2018 22:44:55 America/New_York] PHP Parse error:  syntax error, unexpected ''$r3['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[05-Dec-2018 22:44:58 America/New_York] PHP Parse error:  syntax error, unexpected ''$r3['' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[05-Dec-2018 22:45:07 America/New_York] PHP Parse error:  syntax error, unexpected ''$r3[other_info]'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[05-Dec-2018 22:45:12 America/New_York] PHP Parse error:  syntax error, unexpected ''$r3[other_info]'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[05-Dec-2018 22:45:22 America/New_York] PHP Parse error:  syntax error, unexpected '$r3' (T_VARIABLE), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[05-Dec-2018 22:49:39 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/overatou/public_html/upcoming/php/updateform.php on line 17
+[05-Dec-2018 22:49:42 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/overatou/public_html/upcoming/php/updateform.php on line 17
+[05-Dec-2018 22:49:44 America/New_York] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/overatou/public_html/upcoming/php/updateform.php on line 17
+[05-Dec-2018 23:01:20 America/New_York] PHP Parse error:  syntax error, unexpected ''$r3[other_info]>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[05-Dec-2018 23:01:22 America/New_York] PHP Parse error:  syntax error, unexpected ''$r3[other_info]>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[05-Dec-2018 23:01:38 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/php/updateform.php on line 391
+[18-Dec-2018 01:38:29 America/New_York] PHP Parse error:  syntax error, unexpected 'demo' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/addnew.php on line 221
+[18-Dec-2018 01:38:32 America/New_York] PHP Parse error:  syntax error, unexpected 'demo' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/addnew.php on line 221
+[18-Dec-2018 04:01:36 America/New_York] PHP Parse error:  syntax error, unexpected 'li' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/upcoming/php/addnew.php on line 234
+[18-Dec-2018 04:19:29 America/New_York] PHP Notice:  Undefined variable: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 30
+[18-Dec-2018 04:20:32 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 04:20:42 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 04:22:09 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 04:22:27 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 04:23:26 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 04:51:20 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 04:51:52 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 04:59:36 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 05:39:13 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 05:39:46 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 23:54:13 America/New_York] PHP Notice:  Undefined index: hotelee in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 23:54:13 America/New_York] PHP Notice:  Undefined index: hotelee in /home/overatou/public_html/upcoming/php/addnew.php on line 30
+[18-Dec-2018 23:56:19 America/New_York] PHP Notice:  Undefined index: demo in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[18-Dec-2018 23:56:19 America/New_York] PHP Notice:  Undefined index: hotelee in /home/overatou/public_html/upcoming/php/addnew.php on line 30
+[19-Dec-2018 00:17:33 America/New_York] PHP Notice:  Undefined index: demo in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[19-Dec-2018 00:17:33 America/New_York] PHP Notice:  Undefined index: hotelee in /home/overatou/public_html/upcoming/php/addnew.php on line 30
+[19-Dec-2018 00:18:15 America/New_York] PHP Notice:  Undefined index: demoe in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[19-Dec-2018 00:18:15 America/New_York] PHP Notice:  Undefined index: hotelee in /home/overatou/public_html/upcoming/php/addnew.php on line 30
+[19-Dec-2018 02:01:01 America/New_York] PHP Notice:  Undefined index: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 27
+[20-Dec-2018 03:32:39 America/New_York] PHP Notice:  Undefined variable: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 32
+[20-Dec-2018 03:34:09 America/New_York] PHP Notice:  Undefined variable: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 32
+[20-Dec-2018 03:34:25 America/New_York] PHP Notice:  Undefined variable: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 32
+[20-Dec-2018 04:24:32 America/New_York] PHP Notice:  Undefined index: $voucherno in /home/overatou/public_html/upcoming/php/addnew.php on line 19
+[20-Dec-2018 04:24:32 America/New_York] PHP Notice:  Undefined variable: Hotels in /home/overatou/public_html/upcoming/php/addnew.php on line 45
+[20-Dec-2018 04:25:44 America/New_York] PHP Notice:  Undefined index: $voucherno in /home/overatou/public_html/upcoming/php/addnew.php on line 19
+[20-Dec-2018 23:11:57 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/php/permit.php on line 44
+[20-Dec-2018 23:12:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/overatou/public_html/upcoming/php/permit.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/overatou/public_html/upcoming/php/permit.php on line 15

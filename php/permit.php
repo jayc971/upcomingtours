@@ -2,8 +2,8 @@
 
 require_once('../db/connect.php');
 
-$uname = "overatours";
-$pwd = "overa123";
+$uname = "tours";
+$pwd = "tours123";
 
 session_start();
 

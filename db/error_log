@@ -1,0 +1,92 @@
+[17-Nov-2018 04:51:51 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/overatou/public_html/3cs/db/connect.php on line 2
+[17-Nov-2018 04:51:51 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, boolean given in /home/overatou/public_html/3cs/db/connect.php on line 7
+[17-Nov-2018 22:51:13 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 25
+[17-Nov-2018 22:51:23 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 25
+[17-Nov-2018 22:51:52 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 25
+[17-Nov-2018 22:53:23 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 27
+[17-Nov-2018 22:53:25 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 27
+[17-Nov-2018 22:53:48 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 27
+[17-Nov-2018 22:54:45 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 27
+[17-Nov-2018 22:54:46 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 27
+[17-Nov-2018 22:56:46 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 27
+[17-Nov-2018 23:27:38 America/New_York] PHP Parse error:  syntax error, unexpected 'stylesheet' (T_STRING), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 27
+[19-Nov-2018 02:27:00 America/New_York] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/overatou/public_html/3cs/db/dashboard2.php on line 68
+[19-Nov-2018 02:27:03 America/New_York] PHP Parse error:  syntax error, unexpected 'or' (T_LOGICAL_OR) in /home/overatou/public_html/3cs/db/dashboard2.php on line 68
+[19-Nov-2018 02:29:36 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/overatou/public_html/3cs/db/dashboard2.php on line 68
+[19-Nov-2018 02:30:07 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/overatou/public_html/3cs/db/dashboard2.php on line 68
+[19-Nov-2018 02:30:37 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/overatou/public_html/3cs/db/dashboard2.php on line 64
+[19-Nov-2018 02:30:38 America/New_York] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/overatou/public_html/3cs/db/dashboard2.php on line 69
+[19-Nov-2018 02:53:48 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/overatou/public_html/3cs/db/dashboard2.php on line 116
+[19-Nov-2018 02:53:56 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/overatou/public_html/3cs/db/dashboard2.php on line 116
+[19-Nov-2018 02:55:01 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 79
+[19-Nov-2018 02:55:01 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 79
+[19-Nov-2018 02:58:32 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 79
+[19-Nov-2018 02:58:32 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 79
+[19-Nov-2018 02:59:07 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 79
+[19-Nov-2018 02:59:07 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 79
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 78
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 82
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 84
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 87
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 87
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 78
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 82
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 84
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 87
+[19-Nov-2018 02:59:39 America/New_York] PHP Notice:  Undefined variable: r in /home/overatou/public_html/3cs/db/dashboard2.php on line 87
+[19-Nov-2018 04:11:53 America/New_York] PHP Notice:  Undefined variable: readsql in /home/overatou/public_html/3cs/db/dashboard2.php on line 14
+[19-Nov-2018 04:11:53 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home/overatou/public_html/3cs/db/dashboard2.php on line 14
+[19-Nov-2018 04:11:53 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/overatou/public_html/3cs/db/dashboard2.php on line 65
+[19-Nov-2018 04:15:24 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 81
+[19-Nov-2018 04:15:24 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 81
+[19-Nov-2018 04:15:24 America/New_York] PHP Notice:  Undefined variable: r2 in /home/overatou/public_html/3cs/db/dashboard2.php on line 81
+[24-Nov-2018 04:46:09 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 85
+[24-Nov-2018 04:46:11 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 85
+[24-Nov-2018 04:47:22 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 85
+[24-Nov-2018 04:47:53 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 85
+[24-Nov-2018 04:48:31 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 85
+[24-Nov-2018 04:49:59 America/New_York] PHP Parse error:  syntax error, unexpected '>' in /home/overatou/public_html/3cs/db/dashboard2.php on line 90
+[24-Nov-2018 05:32:44 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/overatou/public_html/3cs/db/dashboard1.php on line 80
+[24-Nov-2018 05:38:44 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/overatou/public_html/3cs/db/dashboard2.php on line 49
+[04-Dec-2018 00:36:47 America/New_York] PHP Notice:  Undefined variable: res in /home/overatou/public_html/upcoming/db/dashboard1.php on line 59
+[04-Dec-2018 00:36:47 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/overatou/public_html/upcoming/db/dashboard1.php on line 59
+[04-Dec-2018 00:39:57 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 00:40:25 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 00:41:28 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 00:42:31 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 00:50:00 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 65
+[04-Dec-2018 00:50:05 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 65
+[04-Dec-2018 00:51:36 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 65
+[04-Dec-2018 00:53:03 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 00:53:09 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 00:53:28 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 00:54:23 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 01:00:11 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 01:00:33 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 01:00:40 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 01:03:36 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/overatou/public_html/upcoming/db/dashboard2.php on line 78
+[04-Dec-2018 01:06:18 America/New_York] PHP Notice:  Undefined variable: res in /home/overatou/public_html/upcoming/db/dashboard2.php on line 63
+[04-Dec-2018 01:06:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/overatou/public_html/upcoming/db/dashboard2.php on line 63
+[04-Dec-2018 01:13:18 America/New_York] PHP Notice:  Undefined variable: res in /home/overatou/public_html/upcoming/db/dashboard2.php on line 63
+[04-Dec-2018 01:13:18 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/overatou/public_html/upcoming/db/dashboard2.php on line 63
+[04-Dec-2018 01:15:55 America/New_York] PHP Notice:  Undefined variable: res in /home/overatou/public_html/upcoming/db/dashboard2.php on line 63
+[04-Dec-2018 01:15:55 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/overatou/public_html/upcoming/db/dashboard2.php on line 63
+[04-Dec-2018 01:16:09 America/New_York] PHP Notice:  Undefined variable: res in /home/overatou/public_html/upcoming/db/dashboard2.php on line 63
+[04-Dec-2018 01:16:09 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/overatou/public_html/upcoming/db/dashboard2.php on line 63
+[04-Dec-2018 07:08:54 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/db/dashboard1.php on line 134
+[04-Dec-2018 07:09:03 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/db/dashboard1.php on line 134
+[04-Dec-2018 07:56:37 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/db/dashboard1.php on line 134
+[04-Dec-2018 09:46:05 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/db/dashboard1.php on line 134
+[04-Dec-2018 09:47:24 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/db/dashboard1.php on line 134
+[04-Dec-2018 09:48:25 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/db/dashboard1.php on line 132
+[04-Dec-2018 09:48:49 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/db/dashboard1.php on line 127
+[04-Dec-2018 09:49:37 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/overatou/public_html/upcoming/db/dashboard1.php on line 127
+[04-Dec-2018 09:49:51 America/New_York] PHP Notice:  Undefined variable: connection in /home/overatou/public_html/upcoming/db/dashboard1.php on line 9
+[04-Dec-2018 09:49:51 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/overatou/public_html/upcoming/db/dashboard1.php on line 9
+[20-Dec-2018 05:31:31 America/New_York] PHP Notice:  Undefined index: options in /home/overatou/public_html/upcoming/db/dashboard2.php on line 113
+[26-Dec-2018 02:56:07 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'overatou'@'localhost' (using password: YES) in /home/overatou/public_html/upcoming/db/connect.php on line 2
+[26-Dec-2018 02:56:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/overatou/public_html/upcoming/db/connect.php:7
+Stack trace:
+#0 /home/overatou/public_html/upcoming/db/dashboard1.php(12): require_once()
+#1 {main}
+  thrown in /home/overatou/public_html/upcoming/db/connect.php on line 7

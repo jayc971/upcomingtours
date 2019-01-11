@@ -7,7 +7,7 @@ if(!$connection){
 	die("Database connection failed" . mysql_error($connection));
 }
 
-$selectdb = mysqli_select_db($connection,'overatou_inq');
+$selectdb = mysqli_select_db($connection,'YOUR_DATABASE_HERE');
 
 if(!$selectdb){
 	die("Database selection failed" . mysql_error($connection));

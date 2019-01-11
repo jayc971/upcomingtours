@@ -9,7 +9,7 @@ You can download the project & edit the db/connect.php USERNAME_HERE as your cpa
 ### Live example
 
 [Click here & goto live example of the project](https://www.overatours.com/upcoming)
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 
 ## Languages & Frameworks used
 

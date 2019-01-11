@@ -1,5 +1,5 @@
 <?php
-$connection = mysqli_connect('localhost','overatou','Ljoij578F1');
+$connection = mysqli_connect('localhost','USERNAME_HERE','PASSWORD_HERE');
 
 
 
